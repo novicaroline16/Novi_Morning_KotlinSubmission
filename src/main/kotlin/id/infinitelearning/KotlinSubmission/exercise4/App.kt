@@ -7,6 +7,8 @@ fun main() {
      *
      */
 
+    val name: String = "saya"
+
 
 
 }
